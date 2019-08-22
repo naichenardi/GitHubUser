@@ -7,7 +7,7 @@ To build this project you need to have maven in your environment.
 Download and install maven at https://maven.apache.org/
 
 - Open the project folder and run the following command
-###### mvn Installmvn Install
+###### mvn Install
 - Open the target folder and run the following command
 ###### java -jar github-0.0.1-SNAPSHOT.jar
 This command is to deploy the application on 8080 port
